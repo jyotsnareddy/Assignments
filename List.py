@@ -1,4 +1,3 @@
-print "hello"
 string1 = "{df{da}}"
 x = string1.count("{")
 y = string1.count("}")
